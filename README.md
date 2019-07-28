@@ -3,6 +3,10 @@ Jupyter Notebook使用
 
 
 ### Usage
+想打开那个目录，就在那个目录下运行命令行
+`jupyter notbook`
+
+
 jupyter配置：https://www.jianshu.com/p/918e517b142f?from=timeline
 
 
