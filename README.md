@@ -2,6 +2,10 @@
 Jupyter Notebook使用
 
 
+### Usage
+jupyter配置：https://www.jianshu.com/p/918e517b142f?from=timeline
+
+
 ### jupyter notebook卸载重装
 
 ```
