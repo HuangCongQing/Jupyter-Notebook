@@ -1,6 +1,12 @@
 # Jupyter-Notebook
 Jupyter Notebook使用
 
+* [如何优雅地使用 Jupyter? - 知乎](https://www.zhihu.com/question/59392251?sort=created)
+
+### 功能
+* 更换主题
+* 修改默认打开目录
+* 
 
 ### Usage
 想打开那个目录，就在那个目录下运行命令行
