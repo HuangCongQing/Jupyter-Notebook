@@ -5,6 +5,18 @@ Jupyter Notebook使用
 
 ### 功能
 * 更换主题
+```
+安装
+pip install jupyterthemes
+
+第二步，加载可用主题列表：
+
+jt -l
+第三步，选择你想要的主题：
+
+jt -t chesterish -T -N
+```
+
 * 修改默认打开目录
 * 
 
