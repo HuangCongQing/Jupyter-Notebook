@@ -10,6 +10,9 @@ Jupyter Notebook使用
   * https://blog.csdn.net/qq_39232265/article/details/78868487
 
 $\sum_{i=1}^n a_i=0$
+见示例：
+
+[Latex.ipynb](Latex.ipynb)
 
 * 更换主题
 ```
