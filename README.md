@@ -4,6 +4,11 @@ Jupyter Notebook使用
 * [如何优雅地使用 Jupyter? - 知乎](https://www.zhihu.com/question/59392251?sort=created)
 
 ### 功能
+
+* 支持LaTeX
+https://www.cnblogs.com/SC-CS/p/Jupyter_with_LaTeX.html
+https://blog.csdn.net/qq_39232265/article/details/78868487
+
 * 更换主题
 ```
 安装
