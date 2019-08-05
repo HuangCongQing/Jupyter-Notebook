@@ -5,9 +5,8 @@ Jupyter Notebook使用
 
 ### 功能
 
-* 支持LaTeX
-https://www.cnblogs.com/SC-CS/p/Jupyter_with_LaTeX.html
-https://blog.csdn.net/qq_39232265/article/details/78868487
+* 支持LaTeX: 
+https://blog.csdn.net/halazi100/article/details/79706172
 
 * 更换主题
 ```
