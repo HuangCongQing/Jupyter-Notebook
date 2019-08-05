@@ -6,7 +6,10 @@ Jupyter Notebook使用
 ### 功能
 
 * 支持LaTeX: 
-https://blog.csdn.net/halazi100/article/details/79706172
+  * https://blog.csdn.net/halazi100/article/details/79706172
+  * https://blog.csdn.net/qq_39232265/article/details/78868487
+
+$\sum_{i=1}^n a_i=0$
 
 * 更换主题
 ```
